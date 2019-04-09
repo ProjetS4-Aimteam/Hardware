@@ -1,0 +1,12 @@
+materiel: ABS 6 mm
+Note: lors de la coupe le coté ruff doit etre vers le haut.
+
+roue 2x
+main_plate 1x
+base_plate 1x
+base_top
+plaque_de_base 1x
+base_side_r 1x
+base_side_l 1x
+base_front 1x
+base_back 1x

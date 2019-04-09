@@ -1,6 +1,17 @@
 # Hardware
 Repository containing everything needed to build the Aim-Bot
 
+***************************************************************************
+Repo presented by the Aim-Team
+from Univesité de Sherbrooke
+Winter 2019
+
+Carl-Philippe Cyr Mercier - cyrc2702@usherbrooke.ca
+Simon Therrien - thes2210@usherbrooke.ca
+Francis Roy - royf2112@usherbrooke.ca
+Olivier Julien - julo2201@usherbrooke.ca
+Marie Lepage - lepm3403@usherbrooke.ca
+
 ****************************************************************************
 Whoaa there is a lot of files!!! 
 Don't be afraid. We're here to guide you building your Aim-bot. Here are some informations you will need to get started.

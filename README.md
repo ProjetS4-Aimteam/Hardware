@@ -30,7 +30,7 @@ What you will use in this repository: everything, but here's how.
  - To facilitate your life, two folders "fab/dxf" and "fab/stl" are given with the parts exported from solidworks in extensions used for 3D printing (stl) and laser cutting (dxf).
  
  - When its time for assembling, some plans may be nice. We got exploded views of each assembly, leading to the complete build.
- those are the files named " .pdf"
+ those are the files named " master_assembly.pdf launcher_assembly.pdf"
  
 *****************************************************************************
 For modification / amelioration of the model
